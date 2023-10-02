@@ -1,0 +1,47 @@
+name: burger_king
+description: mobile app to manage burger king resturants.
+
+publish_to: 'none' 
+
+version: 1.0.0+1
+
+environment:
+  sdk: '>=2.19.0-146.2.beta <3.0.0'
+
+dependencies:
+  flutter:
+    sdk: flutter
+
+  cupertino_icons: ^1.0.2
+  flutter_launcher_icons: ^0.12.0
+
+flutter_icons:
+  android: "launcher_icon"
+  ios: true
+  image_path: "lib/assets/logo.png"
+
+dev_dependencies:
+  flutter_test:
+    sdk: flutter
+
+  flutter_lints: ^2.0.0
+
+flutter:
+  uses-material-design: true
+
+  assets:
+   - lib/assets/
+
+  fonts:
+    - family: Angkor
+      fonts:
+        - asset: lib/fonts/Angkor-Regular.ttf
+    - family: AnekTelugu
+      fonts:
+        - asset: lib/fonts/AnekTelugu-Medium.ttf
+          weight: 500
+        - asset: lib/fonts/AnekTelugu-Regular.ttf
+          weight: 200
+        - asset: lib/fonts/AnekTelugu-SemiBold.ttf
+          weight: 900  
+
