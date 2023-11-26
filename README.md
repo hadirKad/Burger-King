@@ -25,12 +25,10 @@ flutter run lib/main.dart
 flutter build apk
 ```
 ### ScreenShots
-<img src="lib/assets/1.jpg" width="48">
-![Splash Screen!](lib/assets/1.jpg "Splash Screen")
-![Home1 Screen!](lib/assets/2.jpg "Home1 Screen")
-![Home2 Screen!](lib/assets/3.jpg "Home2 Screen")
-![Detail1 Screen!](lib/assets/4.jpg "Detail1 Screen")
-![Detail2 Screen!](lib/assets/5.jpg "Detail2 Screen")
-
+<img src="lib/assets/1.jpg" width="100">
+<img src="lib/assets/2.jpg" width="100">
+<img src="lib/assets/3.jpg" width="100">
+<img src="lib/assets/4.jpg" width="100">
+<img src="lib/assets/5.jpg" width="100">
 
 
