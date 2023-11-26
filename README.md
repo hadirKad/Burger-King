@@ -24,7 +24,8 @@ flutter run lib/main.dart
 ```bash
 flutter build apk
 ```
-### ScreenShots
+### 🔭 ScreenShots
+-----
 <img src="lib/assets/1.jpg" width="200">  <img src="lib/assets/2.jpg" width="200">  <img src="lib/assets/3.jpg" width="200">
 <img src="lib/assets/4.jpg" width="200">  <img src="lib/assets/5.jpg" width="200">
 
