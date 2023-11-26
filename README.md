@@ -8,10 +8,6 @@ I designed and developed a Flutter UI app for a burger restaurant called ***burg
  - A search feature for easy navigation through the menu.
  - A well-organized code that's now available on GitHub for anyone interested in learning Flutter.
 
-### ScreenShots
-![The San Juan Mountains are beautiful!](lib/assets/brownie-milkshake.jpg "San Juan Mountains")
-
-
 ### ✨ Installation
 -----
  1. Clone this repository:
@@ -28,6 +24,12 @@ flutter run lib/main.dart
 ```bash
 flutter build apk
 ```
+### ScreenShots
+![Splash Screen!](lib/assets/1.jpg "Splash Screen")
+![Home1 Screen!](lib/assets/2.jpg "Home1 Screen")
+![Home2 Screen!](lib/assets/3.jpg "Home2 Screen")
+![Detail1 Screen!](lib/assets/4.jpg "Detail1 Screen")
+![Detail2 Screen!](lib/assets/5.jpg "Detail2 Screen")
 
 
 
