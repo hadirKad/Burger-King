@@ -1,12 +1,16 @@
 ### Hi GitHub community 👋
 I designed and developed a Flutter UI app for a burger restaurant called ***burger_king***.
-
+    
 ### 🔭 key features
 -----
  - User-friendly interface.
  - A menu section showcasing burgers, sides, and drinks.
  - A search feature for easy navigation through the menu.
  - A well-organized code that's now available on GitHub for anyone interested in learning Flutter.
+
+### ScreenShots
+![The San Juan Mountains are beautiful!](lib/assets/brownie-milkshake.jpg "San Juan Mountains")
+
 
 ### ✨ Installation
 -----
