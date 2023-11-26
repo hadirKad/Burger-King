@@ -1,16 +1,29 @@
-# burger_king
+### Hi GitHub community 👋
+I designed and developed a Flutter UI app for a burger restaurant called ***burger_king***.
 
-A new Flutter project.
+### 🔭 key features
+-----
+ - User-friendly interface.
+ - A menu section showcasing burgers, sides, and drinks.
+ - A search feature for easy navigation through the menu.
+ - A well-organized code that's now available on GitHub for anyone interested in learning Flutter.
 
-## Getting Started
+### ✨ Installation
+-----
+ 1. Clone this repository:
+```bash
+git clone <repository-url>
+```
 
-This project is a starting point for a Flutter application.
+2. Run the application:
+```bash
+flutter run lib/main.dart
+```
 
-A few resources to get you started if this is your first Flutter project:
+3. build the Android APK:
+```bash
+flutter build apk
+```
 
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
 
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+
