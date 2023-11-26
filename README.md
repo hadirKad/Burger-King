@@ -25,6 +25,7 @@ flutter run lib/main.dart
 flutter build apk
 ```
 ### ScreenShots
+<img src="lib/assets/1.jpg" width="48">
 ![Splash Screen!](lib/assets/1.jpg "Splash Screen")
 ![Home1 Screen!](lib/assets/2.jpg "Home1 Screen")
 ![Home2 Screen!](lib/assets/3.jpg "Home2 Screen")
